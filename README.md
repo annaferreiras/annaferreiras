@@ -7,8 +7,6 @@ I am a passionate software engineer focused on turning state-of-the-art research
 -  Currently researching and developing solutions with **LLMs, Multi-Agent Systems, NLP**, and building evaluation pipelines/datasets for the **Hugging Face** community.
 - Former Hardware Lead at **Black Bee Drones**, where I coordinated autonomous mission systems and competed internationally at IMAV (Germany & UK).
 
-### Tech Stack
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
